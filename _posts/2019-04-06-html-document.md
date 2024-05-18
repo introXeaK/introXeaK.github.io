@@ -2,16 +2,11 @@
 layout: post
 title: 如何理解 <code>document</code> 对象是 <code>HTMLDocument</code> 的实例？
 subtitle: Why is <code>document</code> an instance of <code>HTMLDocument</code>?
-author: "Hux"
+author: "intro"
 header-style: text
 tags:
   - Web
-  - 知乎
----
 
-> 这篇文章转载自[我在知乎上的回答](https://www.zhihu.com/question/57601873/answer/155685476)
-
-谢邀。
 
 首先要理解的是 DOM 是 API，是一组无关编程语言的接口（Interfaces）而非实现（Implementation）。前端平时常说的 DOM 其实只是浏览器通过 ECMAScript（JavaScript）对 DOM 接口的一种实现。
 
