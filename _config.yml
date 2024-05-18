@@ -62,6 +62,11 @@ netease_comment: false
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
 ga_domain: intro.me
 
+# Sidebar settings
+sidebar: false # whether or not using Sidebar.
+sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/
+
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
