@@ -70,7 +70,7 @@ sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's us
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
-service-worker: true
+service-worker: false
 
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
