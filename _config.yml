@@ -9,7 +9,7 @@ url: "https://intro.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
-future: true
+future: false
 
 
 # Build settings
@@ -47,7 +47,7 @@ kramdown:
     span:
       line_numbers: false
     block:
-      line_numbers: true
+      line_numbers: flase
       start_line: 1
 
 
